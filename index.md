@@ -1,5 +1,5 @@
 ---
-title: This-is-me
+title: About-Me
 ---
-![image](https://user-images.githubusercontent.com/112563654/207198162-ef8b66d2-e56a-4bff-a161-1f917c9c41a7.png)
+# My name is Marlon Elliott. I am a Civil Engineering major, who hopes to specify in Construction.
 
